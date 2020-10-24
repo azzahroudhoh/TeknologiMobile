@@ -7,28 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ad448f-abfa-4040-be3d-b0433a2d125f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mylistviewar/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mylistviewar/HeroAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mylistviewar/ViewHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ahmad_dahlan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ahmad_yani.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bung_tomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gatot_subroto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ki_hadjar_dewantara.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mohammad_hatta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sudirman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sukarno.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/supomo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tan_malaka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_hero.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/src/main/res/drawable/ic_collections_white_18dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/src/main/res/drawable/photo_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/src/main/res/drawable/pixel_google.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VolumeBalokAR/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/java/com/example/mylistview001/Hero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/java/com/example/mylistview001/HeroAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/java/com/example/mylistview001/ViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/ahmad_dahlan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/ahmad_yani.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/bung_tomo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/gatot_subroto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/ki_hadjar_dewantara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/mohammad_hatta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/sudirman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/sukarno.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/supomo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/drawable-v24/tan_malaka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListView001/app/src/main/res/layout/item_hero.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/src/main/res/values/dimens.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VolumeBalokAR/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,10 +199,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1602872898292" />
-    <state x="44" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1603419886009">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="44" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1603548111084">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="44" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1603419886009" />
+    <state x="44" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1603548111084" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602875381144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
