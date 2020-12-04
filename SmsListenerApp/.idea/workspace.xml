@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5cff865-33cf-406d-83e6-ea44dae71ec6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/smslistenerapp/SmsReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/smslistenerapp/SmsReceiverActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sms_receiver.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/.idea/modules/ARSITEKU.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/java/com/example/arsiteku/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/res/drawable/arsi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/res/drawable/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/res/drawable/splash_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARSITEKU/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GIF/app/src/main/java/com/example/gif/Halamanutama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GIF/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GIF/app/src/main/res/layout/activity_halaman_utama.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GIF/app/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/bundle_manifest/debug/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/586a24876735e978491240bbaca6313c8a8b9cf98c91bc69159502e6ddce172a_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/586a24876735e978491240bbaca6313c8a8b9cf98c91bc69159502e6ddce172a_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/586a24876735e978491240bbaca6313c8a8b9cf98c91bc69159502e6ddce172a_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/586a24876735e978491240bbaca6313c8a8b9cf98c91bc69159502e6ddce172a_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MenuActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MenuActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MenuFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/intermediates/project_dex_archive/debug/out/com/example/myactionbar001/MenuFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyActionBar001/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyActionBar001/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen1/FragmentTab1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen1/FragmentTab2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen1/FragmentTab3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen1/FragmentTab4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen1/TabPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen2/FragmentTab5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen2/FragmentTab6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen2/FragmentTab7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen2/FragmentTab8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen2/TabPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen3/FragmentTab10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen3/FragmentTab11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen3/FragmentTab12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen3/FragmentTab9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen3/TabPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen4/FragmentTab13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen4/FragmentTab14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen4/FragmentTab15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen4/FragmentTab16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen4/TabPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen5/FragmentTab17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen5/FragmentTab18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen5/FragmentTab19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen5/FragmentTab20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen5/TabPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen6/FragmentTab21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen6/FragmentTab22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen6/FragmentTab23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen6/FragmentTab24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/java/com/example/myarsiteku/tabfragmen6/TabPagerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/drawable/ic_baseline_home_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/drawable/tab1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy (2)/app/src/main/res/layout/fragment_tab9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/java/com/example/myarsiteku/Fragment1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/java/com/example/myarsiteku/Fragment2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/java/com/example/myarsiteku/Fragment3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/java/com/example/myarsiteku/Fragment4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/java/com/example/myarsiteku/TabAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/res/drawable/icon_home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/res/layout/fragment_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/res/layout/fragment_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/res/layout/fragment_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/res/layout/fragment_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy - Copy/app/src/main/res/layout/toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/java/com/example/myarsiteku/Activity1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/java/com/example/myarsiteku/Activity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/java/com/example/myarsiteku/Activity3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/java/com/example/myarsiteku/Activity4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/java/com/example/myarsiteku/Activity5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/java/com/example/myarsiteku/Activity6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/tipe_120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/tipe_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/tipe_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/tipe_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/tipe_60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/drawable/tipe_70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/font/droid_sans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - Copy/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/androidTest/java/com/example/myarsiteku/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/Activity1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/Activity2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/Activity3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/Activity4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/Activity5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/Activity6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab36/TabPagerAdapter36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_denah36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_desain36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_home36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_interior36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/java/com/example/myarsiteku/SplashScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/home_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/tipe_120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/tipe_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/tipe_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/tipe_54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/tipe_60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/drawable/tipe_70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/font/droid_sans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/fragment_tab_denah36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/fragment_tab_desain36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/fragment_tab_home36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/layout/fragment_tab_interior36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/ids.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/app/src/test/java/com/example/myarsiteku/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy - Copy/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab120/TabPagerAdapter120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab120/tab_denah120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab120/tab_desain120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab120/tab_home120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab120/tab_interior120.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab45/TabPagerAdapter45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab45/tab_denah45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab45/tab_desain45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab45/tab_home45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab45/tab_interior45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab54/TabPagerAdapter54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab54/tab_denah54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab54/tab_desain54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab54/tab_home54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab54/tab_interior54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab60/TabPagerAdapter60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab60/tab_denah60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab60/tab_desain60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab60/tab_home60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab60/tab_interior60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab70/TabPagerAdapter70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab70/tab_denah70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab70/tab_desain70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab70/tab_home70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/java/com/example/myarsiteku/FragmenTab70/tab_interior70.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/drawable/home_120.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/drawable/home_45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/drawable/home_54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/drawable/home_60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/drawable/home_70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_denah120.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_denah45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_denah54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_denah60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_denah70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_desain120.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_desain45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_desain54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_desain60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_desain70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_home120.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_home45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_home54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_home60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_home70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_interior120.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_interior45.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_interior54.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_interior60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/layout/fragment_tab_interior70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid - Copy/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/java/com/example/myarsiteku/FragmenTab36/TabPagerAdapter36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_denah36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_desain36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_home36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/java/com/example/myarsiteku/FragmenTab36/tab_interior36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/desain_36_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/desain_36_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/desain_36_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/desain_36_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/desain_36_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/desain_36_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/drawable/home_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/layout/fragment_tab_denah36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/layout/fragment_tab_desain36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/layout/fragment_tab_home36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/layout/fragment_tab_interior36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/layout/row_desain36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-hdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku - splash grid/app/src/main/res/values/refs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/697ac7c8d198f83ba70db6df17f1a32f8789bb1d19f0b130874d3185398a92dd_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/697ac7c8d198f83ba70db6df17f1a32f8789bb1d19f0b130874d3185398a92dd_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/697ac7c8d198f83ba70db6df17f1a32f8789bb1d19f0b130874d3185398a92dd_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/697ac7c8d198f83ba70db6df17f1a32f8789bb1d19f0b130874d3185398a92dd_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/Activity6.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/TabPagerAdapter120.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/TabPagerAdapter120.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_denah120.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_denah120.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_desain120.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_desain120.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_home120.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_home120.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_interior120.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab120/tab_interior120.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/TabPagerAdapter36.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/TabPagerAdapter36.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_denah36.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_denah36.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_desain36.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_desain36.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_home36.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_home36.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_interior36.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab36/tab_interior36.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/TabPagerAdapter45.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/TabPagerAdapter45.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_denah45.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_denah45.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_desain45.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_desain45.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_home45.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_home45.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_interior45.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab45/tab_interior45.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/TabPagerAdapter54.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/TabPagerAdapter54.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_denah54.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_denah54.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_desain54.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_desain54.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_home54.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_home54.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_interior54.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab54/tab_interior54.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/TabPagerAdapter60.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/TabPagerAdapter60.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_denah60.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_denah60.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_desain60.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_desain60.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_home60.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_home60.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_interior60.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab60/tab_interior60.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/TabPagerAdapter70.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/TabPagerAdapter70.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_denah70.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_denah70.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_desain70.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_desain70.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_home70.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_home70.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_interior70.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/FragmenTab70/tab_interior70.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/SplashScreen$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/SplashScreen$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/SplashScreen.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/project_dex_archive/debug/out/com/example/myarsiteku/SplashScreen.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyArsiteku/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyArsiteku/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFlexibleFragment001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyIntentApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyIntentApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyListViewAR/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyListViewAR/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyViewAndViews001/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../MyViewAndViews001/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashGif/app/src/main/java/com/example/splashgif/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashGif/app/src/main/res/drawable/ic_bottom_vector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashGif/app/src/main/res/drawable/ic_top_vector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashGif/app/src/main/res/layout/activity_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashScreen/app/src/main/java/com/example/splashscreen/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SplashScreen/app/src/main/java/com/example/splashscreen/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SplashScreen/app/src/main/res/drawable/splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SplashScreen/app/src/main/res/drawable/splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../VolumeBalokAR/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VolumeBalokAR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VolumeBalokAR/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kr3SYDioh3NpTDUEseKpbOQwGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VolumeBalokAR" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1758030240">
+      <recent name="com.example.smslistenerapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5cff865-33cf-406d-83e6-ea44dae71ec6" name="Default Changelist" comment="" />
+      <created>1606444882646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606444882646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="116" key="#PSD" timestamp="1606446070070">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="200" y="116" key="#PSD/0.0.1366.768@0.0.1366.768" timestamp="1606446070070" />
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog" timestamp="1606445045974">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="263" y="139" key="AndroidCreateResourceFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1606445045974" />
+    <state x="541" y="197" key="AndroidCreateXmlResourceDialog" timestamp="1606445311118">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="541" y="197" key="AndroidCreateXmlResourceDialog/0.0.1366.768@0.0.1366.768" timestamp="1606445311118" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1606444997842">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1606444997842" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1606450345566">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606450345566" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1606450345566">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606450345566" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1606450345566">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606450345566" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1606450345566">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606450345566" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1606451658618">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1606451658618" />
+  </component>
+</project>
